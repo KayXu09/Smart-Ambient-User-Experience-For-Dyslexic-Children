@@ -1,0 +1,1710 @@
+[
+    {
+        "word": "book",
+        "ph_en": "bʊk",
+        "ph_en_mp3": "http://res.iciba.com/resource/amp3/oxford/0/7b/1e/7b1e114ff5a2b3e6d06064d14f9d2f7a.mp3",
+        "ph_am": "bʊk",
+        "ph_am_mp3": "http://res.iciba.com/resource/amp3/1/0/82/1f/821f03288846297c2cf43c34766a38f7.mp3",
+        "img":"https://i.ibb.co/bJZnK5X/Screenshot-2020-04-17-at-08-57-11.png",
+        "parts": [
+            {
+                "part": "n.",
+                "means": [
+                    "bog"
+                ]
+            },
+            {
+                "part": "vt.& vi.",
+                "means": [
+                    "reservere"
+                ]
+            },
+            {
+                "part": "vt.",
+                "means": [
+                    "nedskrive",
+                    "bestille"
+                ]
+            }
+
+        ],
+        "collins": [
+            {
+                "posp": "N-COUNT",
+                "tran": "bog",
+                "def": "A book is a number of pieces of paper, usually with words printed on them, which are fastened together and fixed inside a cover of stronger paper or cardboard. Books contain information, stories, or poetry, for example.",
+                "example": [
+                    {
+                        "ex": "His eighth book came out earlier this year and was an instant best-seller...",
+                        "tran": "Hans ottende bog kom ud tidligere i år og var en øjeblikkelig bestseller...",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/f/f/4/ff492e0c183f6c8b238f528d7210363b.mp3",
+                        "tts_size": "20K"
+                    },
+                    {
+                        "ex": "'Robinson Crusoe' is one of the most famous books in the world.",
+                        "tran": "Robinson Crusoe 'er en af de mest berømte bøger i verden.",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/2/7/9/279ca419a5b64fff08748c8bf50800e5.mp3",
+                        "tts_size": "17K"
+                    }
+                ]
+            },
+            {
+                "posp": "VERB",
+                "tran": "reservere",
+                "def": "When you book something such as a hotel room or a ticket, you arrange to have it or use it at a particular time.",
+                "example": [
+                    {
+                        "ex": "British officials have booked hotel rooms for the women and children...",
+                        "tran": "Britiske embedsmænd har booket hotelværelser til kvinder og børn ...",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/1/9/d/19dfd504be950805d944e9e4dc569edd.mp3",
+                        "tts_size": "19K"
+                    },
+                    {
+                        "ex": "Laurie revealed she had booked herself a flight home last night.",
+                        "tran": "Laurie afslørede, at hun havde reserveret sig et fly hjem i går aftes.",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/6/e/d/6edca196ba2d8abaa2430650d13d70ec.mp3",
+                        "tts_size": "16K"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "car",
+        "ph_en": "kɑ:(r)",
+        "ph_en_mp3": "http://res.iciba.com/resource/amp3/oxford/0/f7/28/f72801df7dc8421682f4b4c6b99746cb.mp3",
+        "ph_am": "kɑr",
+        "ph_am_mp3": "http://res.iciba.com/resource/amp3/1/0/e6/d9/e6d96502596d7e7887b76646c5f615d9.mp3",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSMKpV3hu4uI5vBRnED1eZkB1z1mslJWtRa1Du6iEX-CWBi9B7K&usqp=CAU",
+        "parts": [
+            {
+                "part": "n.",
+                "means": [
+                    "汽车",
+                    "车厢",
+                    "轿车"
+                ]
+            }
+        ],
+        "collins": [
+            {
+                "posp": "N-COUNT",
+                "tran": "汽车;轿车",
+                "def": "A car is a motor vehicle with room for a small number of passengers.",
+                "example": [
+                    {
+                        "ex": "He had left his tickets in his car...",
+                        "tran": "他把票忘在车里了。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/e/1/c/e1cb1211ee0176eebca3006b926107a4.mp3",
+                        "tts_size": "11K"
+                    },
+                    {
+                        "ex": "They arrived by car.",
+                        "tran": "他们是坐小汽车来的。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/7/2/f/72ff1f8923115526dae54e78ec94dbad.mp3",
+                        "tts_size": "8K"
+                    }
+                ]
+            },
+            {
+                "posp": "N-COUNT",
+                "tran": "(火车)车厢",
+                "def": "A car is one of the separate sections of a train.",
+                "example": [
+                    {
+                        "ex": "Tour buses have replaced railway cars.",
+                        "tran": "观光巴士已经取代了火车。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/5/a/c/5acf2aae8d139e5dbfe9e3b94cc055d2.mp3",
+                        "tts_size": "13K"
+                    }
+                ]
+            },
+            {
+                "posp": "N-COUNT",
+                "tran": "(火车上作特殊用途的)车厢",
+                "def": "Railway carriages are called cars when they are used for a particular purpose.",
+                "example": [
+                    {
+                        "ex": "He made his way into the dining car for breakfast.",
+                        "tran": "他来到餐车车厢吃早饭。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/0/6/1/061cfaaf4180c414b94cb26170236e11.mp3",
+                        "tts_size": "15K"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "community",
+        "ph_en": "kəˈmju:nəti",
+        "ph_en_mp3": "http://res.iciba.com/resource/amp3/oxford/0/db/47/db47d6a93e02ca58ee7de86e5f9b9e65.mp3",
+        "ph_am": "kəˈmjunɪti",
+        "ph_am_mp3": "http://res.iciba.com/resource/amp3/1/0/82/df/82df41632da476065ce2997900554442.mp3",
+        "parts": [
+            {
+                "part": "n.",
+                "means": [
+                    "社区",
+                    "社会团体",
+                    "共同体",
+                    "[生态] 群落"
+                ]
+            }
+        ],
+        "collins": [
+            {
+                "posp": "N-SING-COLL",
+                "tran": "(同住一地的人所构成的)社区",
+                "def": "The community is all the people who live in a particular area or place.",
+                "example": [
+                    {
+                        "ex": "He's well liked by people in the community...",
+                        "tran": "社区的人都非常喜欢他。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/8/b/e/8beb74b30921c6c90f4e83696fab806a.mp3",
+                        "tts_size": "11K"
+                    },
+                    {
+                        "ex": "'The community are getting impatient,' said a representative of the Residents' Association...",
+                        "tran": "“社区居民开始不耐烦了，”居民协会的一位代表说。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/0/e/6/0e626da2fdb0b5e3e67d538aeffb924a.mp3",
+                        "tts_size": "24K"
+                    }
+                ]
+            },
+            {
+                "posp": "N-COUNT-COLL",
+                "tran": "群体;团体",
+                "def": "A particular community is a group of people who are similar in some way.",
+                "example": [
+                    {
+                        "ex": "The police haven't really done anything for the black community in particular.",
+                        "tran": "警方并未真正特意为黑人群体做什么。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/0/9/d/09d254eea57c062ca10726f09e33a691.mp3",
+                        "tts_size": "20K"
+                    },
+                    {
+                        "ex": "...the business community.",
+                        "tran": "商界",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/2/d/f/2df079e0f1fef714f1fecf98e190b90f.mp3",
+                        "tts_size": "7K"
+                    }
+                ]
+            },
+            {
+                "posp": "N-UNCOUNT",
+                "tran": "(不同人士、团体之间的)友谊，伙伴关系",
+                "def": "Community is friendship between different people or groups, and a sense of having something in common.",
+                "example": [
+                    {
+                        "ex": "A supportive house for eight to ten older people, each with his or her own room, provides privacy and a sense of community...",
+                        "tran": "一幢扶助性住宅可供8至10位老人居住，每个人都有自己单独的房间，在这里，他们既能独处，又有社区归属感。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/8/f/a/8fafc8b4c134436aaf6cd1f38afb4cee.mp3",
+                        "tts_size": "36K"
+                    },
+                    {
+                        "ex": "Two of our greatest strengths are diversity and community.",
+                        "tran": "我们最大的两个优势是多样性和团体精神。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/5/c/7/5c703008c44362b289eb83e257196fa5.mp3",
+                        "tts_size": "16K"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "fight",
+        "ph_en": "faɪt",
+        "ph_en_mp3": "http://res.iciba.com/resource/amp3/oxford/0/69/d4/69d4d321eaf34670a163c5ff1ea3cf3b.mp3",
+        "ph_am": "faɪt",
+        "ph_am_mp3": "http://res.iciba.com/resource/amp3/1/0/9e/64/9e6417ebffecef071eaeeb2ed0ca654b.mp3",
+        "parts": [
+            {
+                "part": "vt.& vi.",
+                "means": [
+                    "战斗",
+                    "斗争",
+                    "打架",
+                    "吵架"
+                ]
+            },
+            {
+                "part": "n.",
+                "means": [
+                    "打架",
+                    "吵架",
+                    "战斗",
+                    "斗志"
+                ]
+            }
+        ],
+        "collins": [
+            {
+                "posp": "VERB",
+                "tran": "与…作斗争;坚决反对",
+                "def": "If you fight something unpleasant, you try in a determined way to prevent it or stop it happening.",
+                "example": [
+                    {
+                        "ex": "Mother Teresa is an elderly nun who has devoted her life to fighting poverty...",
+                        "tran": "德肋撒嬷嬷是一位毕生致力于消除贫困事业的年迈修女。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/9/a/b/9ab88941bbe63a7cd895e0cd2bd0bef5.mp3",
+                        "tts_size": "22K"
+                    },
+                    {
+                        "ex": "More units to fight forest fires are planned...",
+                        "tran": "计划设立更多单位防控森林火灾。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/5/6/3/5636217cb521c06662b5efcd9a59f831.mp3",
+                        "tts_size": "14K"
+                    }
+                ]
+            },
+            {
+                "posp": "VERB",
+                "tran": "(为…而)斗争;努力争取",
+                "def": "If you fight for something, you try in a determined way to get it or achieve it.",
+                "example": [
+                    {
+                        "ex": "Our Government should be fighting for an end to food subsidies...",
+                        "tran": "我们政府应该努力废止食物补贴。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/1/3/e/13e03cfb11fa25ff28415fd739041762.mp3",
+                        "tts_size": "16K"
+                    },
+                    {
+                        "ex": "Lee had to fight hard for his place on the expedition...",
+                        "tran": "李不得不为在考察队中获得一席之地而苦苦争取。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/0/c/f/0cf0a3eff2b7c75549190b4b211c7e5c.mp3",
+                        "tts_size": "16K"
+                    }
+                ]
+            },
+            {
+                "posp": "V-RECIP",
+                "tran": "进行(战斗、对抗等);打(仗)",
+                "def": "If an army or group fights a battle with another army or group, they oppose each other with weapons. You can also say that two armies or groups fight a battle.",
+                "example": [
+                    {
+                        "ex": "The two men fought a battle over land and water rights...",
+                        "tran": "这两个男人为土地和水的使用权发生了争斗。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/6/e/e/6ee90429281794857e2231167e80e64d.mp3",
+                        "tts_size": "15K"
+                    },
+                    {
+                        "ex": "In the latest incident at the weekend police fought a gun battle with a gang which used hand grenades against them...",
+                        "tran": "在周末发生的最近一起暴力事件中，警方与向他们投掷手榴弹的一伙匪徒展开了枪战。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/f/5/a/f5afaee29acaeb4a8045c05b15e1b135.mp3",
+                        "tts_size": "28K"
+                    }
+                ]
+            },
+            {
+                "posp": "VERB",
+                "tran": "参战;作战;打仗",
+                "def": "If a person or army fights in a battle or a war, they take part in it.",
+                "example": [
+                    {
+                        "ex": "He fought in the war and was taken prisoner by the Americans...",
+                        "tran": "他参了战，后被美国人俘虏。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/3/4/4/34439b3cc0754754c4902f1d51b52d53.mp3",
+                        "tts_size": "17K"
+                    },
+                    {
+                        "ex": "If I were a young man I would sooner go to prison than fight for this country...",
+                        "tran": "如果我是个年轻人，我宁愿进监狱也不愿为这个国家打仗。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/4/7/1/471bc798f02f91be63f109e80ebb37d5.mp3",
+                        "tts_size": "19K"
+                    }
+                ]
+            },
+            {
+                "posp": "V-RECIP",
+                "tran": "(和…)打架;(同…)打斗;(与…)搏斗",
+                "def": "If one person fights with another, or fights them, the two people hit or kick each other because they want to hurt each other. You can also say that two people fight .",
+                "example": [
+                    {
+                        "ex": "As a child she fought with her younger sister...",
+                        "tran": "她小时候会和妹妹打架。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/3/4/c/34cb7015813f230b8de371cb1784db6a.mp3",
+                        "tts_size": "13K"
+                    },
+                    {
+                        "ex": "I did fight him, I punched him but it was like hitting a wall...",
+                        "tran": "我确实和他打了起来，我挥拳向他猛击，但就像打在墙上一样。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/f/f/e/ffe1d34ae13cfedd152a9788607ade2f.mp3",
+                        "tts_size": "17K"
+                    }
+                ]
+            },
+            {
+                "posp": "V-RECIP",
+                "tran": "(和…)争吵;(同…)吵架;(与…)争论",
+                "def": "If one person fights with another, or fights them, they have an angry disagreement or quarrel. You can also say that two people fight .",
+                "example": [
+                    {
+                        "ex": "She was always arguing with him and fighting with him...",
+                        "tran": "她总是跟他争辩吵嘴。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/1/4/9/149f290a6277c8bf73182fc733533c85.mp3",
+                        "tts_size": "15K"
+                    },
+                    {
+                        "ex": "Gwendolen started fighting her teachers...",
+                        "tran": "格温德琳开始同老师争执起来。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/b/6/c/b6ce7555035c66508d937dd38e3cd22e.mp3",
+                        "tts_size": "12K"
+                    }
+                ]
+            },
+            {
+                "posp": "VERB",
+                "tran": "努力辟出(一条路)",
+                "def": "If you fight your way to a place, you move towards it with great difficulty, for example because there are a lot of people or obstacles in your way.",
+                "example": [
+                    {
+                        "ex": "I fought my way into a carriage just before the doors closed...",
+                        "tran": "我刚挤进车厢，车门就关上了。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/6/c/e/6ce59486c23107c6414208b46162ed78.mp3",
+                        "tts_size": "17K"
+                    },
+                    {
+                        "ex": "Peter fought his way through a blizzard to save one of the chickens.",
+                        "tran": "彼得为了救其中一只鸡在暴风雪中艰难前行。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/d/2/1/d21bd49dfc0c3e36b2c6fea102142615.mp3",
+                        "tts_size": "16K"
+                    }
+                ]
+            },
+            {
+                "posp": "N-COUNT",
+                "tran": "(一场)拳击赛",
+                "def": "A fight is a boxing match.",
+                "example": [
+                    {
+                        "ex": "This was Hyer's last fight, for no one else challenged him...",
+                        "tran": "这是海尔的最后一场比赛，因为再没有人向他发起挑战。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/4/5/e/45ec2f9a6550a0a15e7b34b883d25e6d.mp3",
+                        "tts_size": "18K"
+                    },
+                    {
+                        "ex": "The referee stopped the fight.",
+                        "tran": "裁判叫停了比赛。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/1/6/5/165d1af82a2915c846571064633fe9ad.mp3",
+                        "tts_size": "8K"
+                    }
+                ]
+            },
+            {
+                "posp": "VERB",
+                "tran": "参加拳击赛",
+                "def": "To fight means to take part in a boxing match.",
+                "example": [
+                    {
+                        "ex": "In a few hours' time one of the world's most famous boxers will be fighting in Britain for the first time...",
+                        "tran": "几个小时后，世界最著名的拳击手之一将开始其在英国的首场比赛。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/2/2/7/2277253d2a6962a2ced27e25c0fb292a.mp3",
+                        "tts_size": "27K"
+                    },
+                    {
+                        "ex": "I'd like to fight him because he's undefeated and I want to be the first man to beat him...",
+                        "tran": "我想和他对阵，因为他从没有输过，而我想成为打败他的第一人。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/4/2/7/427321fffff4076f03902b9ab9175486.mp3",
+                        "tts_size": "24K"
+                    }
+                ]
+            },
+            {
+                "posp": "VERB",
+                "tran": "参加(竞选以期获胜)",
+                "def": "If you fight an election, you are a candidate in the election and try to win it.",
+                "example": [
+                    {
+                        "ex": "The former party treasurer helped raise almost £40 million to fight the election campaign.",
+                        "tran": "该党的前任财政部长帮助筹集了近 4,000 万英镑用于竞选。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/c/c/f/ccf56c27c61b34bc6b6b1254ce926666.mp3",
+                        "tts_size": "28K"
+                    }
+                ]
+            },
+            {
+                "posp": "N-COUNT",
+                "tran": "竞赛;比赛",
+                "def": "You can use fight to refer to a contest such as an election or a sports match.",
+                "example": [
+                    {
+                        "ex": "...the fight for power between the two parties.",
+                        "tran": "两党间的权力之争",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/3/6/e/36eb835a1e0408d350289a220680a106.mp3",
+                        "tts_size": "12K"
+                    }
+                ]
+            },
+            {
+                "posp": "VERB",
+                "tran": "进行(诉讼、辩护等);打(官司)",
+                "def": "If you fight a case or a court action, you make a legal case against someone in a very determined way, or you put forward a defence when a legal case is made against you.",
+                "example": [
+                    {
+                        "ex": "Watkins sued the Army and fought his case in various courts for 10 years...",
+                        "tran": "沃特金斯将军队诉至法院，并在各级法庭打了 10 年的官司。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/f/e/8/fe8d045f0f7b8fdfc6fedf8e5a682475.mp3",
+                        "tts_size": "21K"
+                    },
+                    {
+                        "ex": "The newspaper is fighting a damages action brought by the actress.",
+                        "tran": "这家报纸正和提起损害赔偿诉讼的女演员对簿公堂。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/7/c/1/7c11dc55719bc0a36a811e02002a8b64.mp3",
+                        "tts_size": "19K"
+                    }
+                ]
+            },
+            {
+                "posp": "N-UNCOUNT",
+                "tran": "斗志;战斗力",
+                "def": "Fight is the desire or ability to keep fighting.",
+                "example": [
+                    {
+                        "ex": "I thought that we had a lot of fight in us.",
+                        "tran": "我觉得我们斗志高昂。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/1/b/3/1b31b0171565871a7914700fcc0051d5.mp3",
+                        "tts_size": "12K"
+                    }
+                ]
+            },
+            {
+                "posp": "VERB",
+                "tran": "努力克制，竭力抑制(感情或欲望)",
+                "def": "If you fight an emotion or desire, you try very hard not to feel it, show it, or act on it, but do not always succeed.",
+                "example": [
+                    {
+                        "ex": "I desperately fought the urge to giggle...",
+                        "tran": "我拼命地想忍住笑。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/c/4/a/c4a77d9be869f3c53599da962f3409cf.mp3",
+                        "tts_size": "11K"
+                    },
+                    {
+                        "ex": "He fought with the urge to smoke one of the cigars he'd given up awhile ago...",
+                        "tran": "他努力克制自己的烟瘾，不去抽一支戒掉没多久的雪茄。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/5/f/2/5f27e16321ed0248e8de3d0a4e7211d8.mp3",
+                        "tts_size": "19K"
+                    }
+                ]
+            },
+            {
+                "posp": "PHRASE",
+                "tran": "呼吸困难;吸气费力",
+                "def": "If you fight for breath, you try to breathe but find it very difficult.",
+                "example": []
+            },
+            {
+                "posp": "PHRASE",
+                "tran": "经过努力才能成功的机会;需要极大好运的机会",
+                "def": "If you have a fighting chance of doing or achieving something, it is possible that you will do or achieve it, but only if you make a great effort or are very lucky.",
+                "example": [
+                    {
+                        "ex": "When they didn't shoot at me right away, I figured I had a fighting chance.",
+                        "tran": "当他们没有立即向我开枪时，我估摸自己还有一线生机。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/0/0/3/0039a76ac476b92158e36af359045a21.mp3",
+                        "tts_size": "21K"
+                    }
+                ]
+            },
+            {
+                "posp": "PHRASE",
+                "tran": "非常健康;极为强健",
+                "def": "If you describe someone as fighting fit, you are emphasizing that they are very fit or healthy.",
+                "example": [
+                    {
+                        "ex": "After a good night's sleep I feel fighting fit again.",
+                        "tran": "昨夜睡得很香，我又觉得自己精力充沛了。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/4/d/a/4da600af8dd2286e38eb21094539af86.mp3",
+                        "tts_size": "16K"
+                    }
+                ]
+            },
+            {
+                "posp": "PHRASE",
+                "tran": "与死神殊死搏斗;奋力求生",
+                "def": "Someone who is fighting for their life is making a great effort to stay alive, either when they are being physically attacked or when they are very ill.",
+                "example": [
+                    {
+                        "ex": "He is still fighting for his life in hospital.",
+                        "tran": "他仍在医院与死神搏斗。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/7/f/6/7f660d0de386397ea6ea6306835eff02.mp3",
+                        "tts_size": "13K"
+                    }
+                ]
+            },
+            {
+                "posp": "PHRASAL VERB",
+                "tran": "奋力抵抗;反击;还击",
+                "def": "If you fight back against someone or something that is attacking or harming you, you resist them actively or attack them.",
+                "example": [
+                    {
+                        "ex": "The teenage attackers fled when the two men fought back...",
+                        "tran": "当那两名男子还击时，袭击他们的少年逃之夭夭。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/1/7/f/17f6b18adc8efb7f801648d87f0976de.mp3",
+                        "tts_size": "15K"
+                    },
+                    {
+                        "ex": "We should take some comfort from the ability of the judicial system to fight back against corruption.",
+                        "tran": "司法制度有能力惩治腐败，这应使我们感到些许欣慰。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/2/7/3/2735e3b3977beed001c260ab7567cd68.mp3",
+                        "tts_size": "26K"
+                    }
+                ]
+            },
+            {
+                "posp": "PHRASAL VERB",
+                "tran": "强忍住，抑制住(感情或欲望)",
+                "def": "If you fight back an emotion or a desire, you try very hard not to feel it, show it, or act on it.",
+                "example": [
+                    {
+                        "ex": "She fought back the tears.",
+                        "tran": "她强忍住眼泪。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/f/1/1/f118cd308027ed0b93203ba2029da66d.mp3",
+                        "tts_size": "8K"
+                    }
+                ]
+            },
+            {
+                "posp": "PHRASAL VERB",
+                "tran": "强忍住，抑制住(感情或欲望)",
+                "def": "If you fight down an emotion or a desire, you try very hard not to feel it, show it, or act on it.",
+                "example": [
+                    {
+                        "ex": "Meg fought down the desire to run...",
+                        "tran": "梅格极力忍住不跑。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/4/b/a/4ba9493e479bfb314127e0852d2f999a.mp3",
+                        "tts_size": "10K"
+                    },
+                    {
+                        "ex": "He looked at the telephone, fighting down first the despair and then the anger.",
+                        "tran": "他看着电话，把绝望和愤怒一一压下。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/d/5/6/d5609abddfa314307a4ee1d569f97b18.mp3",
+                        "tts_size": "21K"
+                    }
+                ]
+            },
+            {
+                "posp": "PHRASAL VERB",
+                "tran": "抵抗，战胜(疾病);摆脱(不快)",
+                "def": "If you fight off something, for example an illness or an unpleasant feeling, you succeed in getting rid of it and in not letting it overcome you.",
+                "example": [
+                    {
+                        "ex": "Unfortunately these drugs are quite toxic and hinder the body's ability to fight off infection...",
+                        "tran": "可惜的是，这些药物毒性很大，会削弱身体对感染的抵抗力。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/b/2/9/b29ec4cd2d482e05548c71cff872a3cc.mp3",
+                        "tts_size": "28K"
+                    },
+                    {
+                        "ex": "All day she had fought off the impulse to telephone Harry.",
+                        "tran": "她一整天都在克制自己想给哈里打电话的冲动。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/6/b/2/6b29ec9dd6693d9f14a8087efd877789.mp3",
+                        "tts_size": "15K"
+                    }
+                ]
+            },
+            {
+                "posp": "PHRASAL VERB",
+                "tran": "击退;打退",
+                "def": "If you fight off someone who has attacked you, you fight with them, and succeed in making them go away or stop attacking you.",
+                "example": [
+                    {
+                        "ex": "The woman fought off the attacker.",
+                        "tran": "这名女子打跑了袭击她的人。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/c/3/3/c330e7dc5b347dd5b4bf72f439ee1048.mp3",
+                        "tts_size": "9K"
+                    }
+                ]
+            },
+            {
+                "posp": "PHR-V-RECIP",
+                "tran": "在…上一争高下;通过比出胜负解决",
+                "def": "If two people or groups fight something out, they fight or argue until one of them wins.",
+                "example": [
+                    {
+                        "ex": "Instead of retaliating, he walks away leaving his team-mates to fight it out...",
+                        "tran": "他没有以牙还牙，而是径直走开，让队友去争出个结果。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/f/6/f/f6f595c8c73e7f6a3239af322eab24f8.mp3",
+                        "tts_size": "22K"
+                    },
+                    {
+                        "ex": "Malcolm continued to fight it out with Julien from his self-imposed exile in Paris.",
+                        "tran": "马尔科姆自我放逐到了巴黎，但他继续要和朱利恩斗到底。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/2/9/a/29a758e7a2598a314a70b47a69fbf857.mp3",
+                        "tts_size": "24K"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "increase",
+        "ph_en": "ɪnˈkri:s",
+        "ph_en_mp3": "http://res.iciba.com/resource/amp3/0/0/11/19/11198b294adbcf089f9d27990258fd22.mp3",
+        "ph_am": "ɪnˈkris",
+        "ph_am_mp3": "http://res.iciba.com/resource/amp3/1/0/11/19/11198b294adbcf089f9d27990258fd22.mp3",
+        "parts": [
+            {
+                "part": "vt.& vi.",
+                "means": [
+                    "增加，增大，增多"
+                ]
+            },
+            {
+                "part": "vt.",
+                "means": [
+                    "增强，增进",
+                    "[缝纫]放（针）"
+                ]
+            },
+            {
+                "part": "vi.",
+                "means": [
+                    "增强",
+                    "增进",
+                    "增殖，繁殖",
+                    "[缝纫]放针"
+                ]
+            }
+        ],
+        "collins": [
+            {
+                "posp": "V-ERG",
+                "tran": "增加;增大;增长",
+                "def": "If something increases or you increase it, it becomes greater in number, level, or amount.",
+                "example": [
+                    {
+                        "ex": "The population continues to increase...",
+                        "tran": "人口继续增长。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/8/5/1/8510d48ad7877ee62e658771644a284a.mp3",
+                        "tts_size": "13K"
+                    },
+                    {
+                        "ex": "Japan's industrial output increased by 2%...",
+                        "tran": "日本工业产量增长了2%。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/3/5/b/35b0a238fc8ebcd07a08fb32fcbd52ae.mp3",
+                        "tts_size": "16K"
+                    }
+                ]
+            },
+            {
+                "posp": "N-COUNT",
+                "tran": "增加;增大;增长",
+                "def": "If there is an increase in the number, level, or amount of something, it becomes greater.",
+                "example": [
+                    {
+                        "ex": "...a sharp increase in productivity...",
+                        "tran": "生产率的大幅提高",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/3/2/a/32a7cbcedef15fa190af0df3b35c974e.mp3",
+                        "tts_size": "11K"
+                    },
+                    {
+                        "ex": "He called for an increase of 1p on income tax.",
+                        "tran": "他呼吁所得税提高 1 便士。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/4/d/f/4df13618ec8723ab18bd3df75d236606.mp3",
+                        "tts_size": "16K"
+                    }
+                ]
+            },
+            {
+                "posp": "PHRASE",
+                "tran": "正在增加;不断增长",
+                "def": "If something is on the increase, it is happening more often or becoming greater in number or intensity.",
+                "example": [
+                    {
+                        "ex": "Crime is on the increase.",
+                        "tran": "犯罪活动在不断增多。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/f/6/c/f6c43a1f1e2066d6cc86666aedefb8f4.mp3",
+                        "tts_size": "9K"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "night",
+        "ph_en": "naɪt",
+        "ph_en_mp3": "http://res.iciba.com/resource/amp3/oxford/0/12/e0/12e0ccf596404d5cecff63ac2b8392d6.mp3",
+        "ph_am": "naɪt",
+        "ph_am_mp3": "http://res.iciba.com/resource/amp3/1/0/93/a0/93a04b066fd81a1017825f2dcda313b2.mp3",
+        "parts": [
+            {
+                "part": "n.",
+                "means": [
+                    "夜",
+                    "晚上",
+                    "（举行盛事的）夜晚"
+                ]
+            }
+        ],
+        "collins": [
+            {
+                "posp": "N-VAR",
+                "tran": "夜间;夜晚",
+                "def": "The night is the part of each day when the sun has set and it is dark outside, especially the time when people are sleeping.",
+                "example": [
+                    {
+                        "ex": "He didn't sleep a wink all night...",
+                        "tran": "他一夜没合眼。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/2/3/7/237abfeb92fbe8009b5fea869aca0af5.mp3",
+                        "tts_size": "10K"
+                    },
+                    {
+                        "ex": "The fighting began in the late afternoon and continued all night...",
+                        "tran": "战斗在傍晚时分打响，持续了一夜。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/6/2/f/62feafc1093bc58be31201039cd1698f.mp3",
+                        "tts_size": "19K"
+                    }
+                ]
+            },
+            {
+                "posp": "N-COUNT",
+                "tran": "晚间，晚上(尤指睡觉前放松的时间)",
+                "def": "The night is the period of time between the end of the afternoon and the time that you go to bed, especially the time when you relax before going to bed.",
+                "example": [
+                    {
+                        "ex": "So whose party was it last night?...",
+                        "tran": "那么，昨晚的聚会是谁办的？",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/d/7/6/d7608a3d241205754491f6a61bff463d.mp3",
+                        "tts_size": "10K"
+                    },
+                    {
+                        "ex": "Demiris took Catherine to dinner the following night.",
+                        "tran": "第二天晚上，德米里斯请凯瑟琳共进晚餐。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/7/0/9/70952f4da454238e70e015d15f9e0638.mp3",
+                        "tts_size": "14K"
+                    }
+                ]
+            },
+            {
+                "posp": "N-COUNT",
+                "tran": "(演出等的)夜场，夜间活动，…之夜",
+                "def": "A particular night is a particular evening when a special event takes place, such as a show or a play.",
+                "example": [
+                    {
+                        "ex": "The first night crowd packed the building.",
+                        "tran": "第一个夜场演出爆满。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/b/6/4/b647dd39a9f719cd33268eae70a1425b.mp3",
+                        "tts_size": "12K"
+                    },
+                    {
+                        "ex": "...election night.",
+                        "tran": "选举之夜",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/8/2/7/8271b25cee1cb114d47af667a88e71f7.mp3",
+                        "tts_size": "5K"
+                    }
+                ]
+            },
+            {
+                "posp": "PHRASE",
+                "tran": "晚间;晚上",
+                "def": "If it is a particular time at night, it is during the time when it is dark and is before midnight.",
+                "example": [
+                    {
+                        "ex": "It's eleven o'clock at night in Moscow...",
+                        "tran": "现在是莫斯科晚间11点。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/e/d/5/ed55559cfcd102e01bff8f89fec0466a.mp3",
+                        "tts_size": "12K"
+                    },
+                    {
+                        "ex": "He works obsessively from 7.15 am to 9 or 10 at night.",
+                        "tran": "他工作极为投入，会从早上七点一刻一直干到晚上九十点。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/0/d/6/0d6a920d83681455efd8a6a545170033.mp3",
+                        "tts_size": "21K"
+                    }
+                ]
+            },
+            {
+                "posp": "PHRASE",
+                "tran": "在晚间;在夜里",
+                "def": "If something happens at night, it happens regularly during the evening or night.",
+                "example": [
+                    {
+                        "ex": "He was going to college at night, in order to become an accountant...",
+                        "tran": "为了成为会计师，他上夜校学习。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/3/c/5/3c543991c775dd0f89a4cd45e8e64d0c.mp3",
+                        "tts_size": "20K"
+                    },
+                    {
+                        "ex": "The veranda was equipped with heavy wooden rain doors that were kept closed at night.",
+                        "tran": "阳台装有厚重的木制防雨门，夜里是关着的。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/2/a/b/2ab291ae2ca6533019943f59a0585451.mp3",
+                        "tts_size": "23K"
+                    }
+                ]
+            },
+            {
+                "posp": "PHRASE",
+                "tran": "昼夜不断;夜以继日",
+                "def": "If something happens day and night or night and day, it happens all the time without stopping.",
+                "example": [
+                    {
+                        "ex": "Dozens of doctors and nurses have been working day and night for weeks...",
+                        "tran": "很多医生和护士已经夜以继日地工作数周了。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/d/a/4/da4310322d620159d583744d03508524.mp3",
+                        "tts_size": "19K"
+                    },
+                    {
+                        "ex": "He was at my door night and day, demanding my attention.",
+                        "tran": "他日日夜夜呆在我门口，想引起我的注意。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/a/6/4/a64d321e512338734c27ecae9c91d9bd.mp3",
+                        "tts_size": "17K"
+                    }
+                ]
+            },
+            {
+                "posp": "PHRASE",
+                "tran": "睡得早/睡得晚",
+                "def": "If you have an early night, you go to bed early. If you have a late night, you go to bed late.",
+                "example": [
+                    {
+                        "ex": "I've had a hell of a day, and all I want is an early night...",
+                        "tran": "这一天糟透了，我就想早点上床睡觉。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/7/1/0/710c92aef03a42c49aede7a8d4adbdca.mp3",
+                        "tts_size": "17K"
+                    },
+                    {
+                        "ex": "In spite of the travelling and the late night, she did not feel tired.",
+                        "tran": "尽管旅途劳顿，而且睡得很晚，她并没觉得累。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/1/4/a/14ad41d282433fb50b478d22a3710129.mp3",
+                        "tts_size": "20K"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "reach",
+        "ph_en": "ri:tʃ",
+        "ph_en_mp3": "http://res.iciba.com/resource/amp3/oxford/0/10/c3/10c3e68c54ce98fdac27e2326a8ce799.mp3",
+        "ph_am": "ritʃ",
+        "ph_am_mp3": "http://res.iciba.com/resource/amp3/1/0/4c/98/4c9858e082cad5bd214a9efc0f2f8cec.mp3",
+        "parts": [
+            {
+                "part": "v.",
+                "means": [
+                    "到达，走到",
+                    "够…，抓…",
+                    "完成"
+                ]
+            },
+            {
+                "part": "n.",
+                "means": [
+                    "手脚能够到的范围",
+                    "范围，区域",
+                    "影响的范围，管辖的范围"
+                ]
+            }
+        ],
+        "collins": [
+            {
+                "posp": "VERB",
+                "tran": "到达；抵达",
+                "def": "When someone or something reaches a place, they arrive there.",
+                "example": [
+                    {
+                        "ex": "He did not stop until he reached the door...",
+                        "tran": "他走到门边才停下。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/f/3/7/f3713fbbf26fbae9a988481d06a96e67.mp3",
+                        "tts_size": "12K"
+                    },
+                    {
+                        "ex": "When the bus reached High Holborn, Tony rang the bell and they jumped off together...",
+                        "tran": "当公交车到达海霍尔本站时，托尼摇响了铃，他们一起跳下了车。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/0/7/c/07ce4da8e93515ab5ab9a904030e267e.mp3",
+                        "tts_size": "23K"
+                    }
+                ]
+            },
+            {
+                "posp": "VERB",
+                "tran": "达到，到达（一定阶段、程度或数量）",
+                "def": "If someone or something has reached a certain stage, level, or amount, they are at that stage, level, or amount.",
+                "example": [
+                    {
+                        "ex": "The process of political change in South Africa has reached the stage where it is irreversible...",
+                        "tran": "南非的政治变革已达到不可逆转的地步。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/8/c/7/8c7234069412616f9578f59bdabc9c1f.mp3",
+                        "tts_size": "25K"
+                    },
+                    {
+                        "ex": "The Belgian player Eduardo Masso has reached the final of the Dutch Open in Hilversum...",
+                        "tran": "比利时选手爱德华多·马索进入了在希尔弗瑟姆举行的荷兰公开赛的决赛。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/3/1/7/317513af08a6f26f9a9d2bfc891d455a.mp3",
+                        "tts_size": "24K"
+                    }
+                ]
+            },
+            {
+                "posp": "VERB",
+                "tran": "（伸手）触及，去拿，去碰",
+                "def": "If you reach somewhere, you move your arm and hand to take or touch something.",
+                "example": [
+                    {
+                        "ex": "Judy reached into her handbag and handed me a small printed leaflet...",
+                        "tran": "朱蒂把手伸进提包，拿出一张小的印刷传单给我。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/e/2/8/e28f4297e801ed834be1f0f15776e4d7.mp3",
+                        "tts_size": "19K"
+                    },
+                    {
+                        "ex": "I reached across the table and squeezed his hand...",
+                        "tran": "我把手伸到桌子的另一边，捏住他的手。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/6/d/1/6d17f75640abcef3acfcbcd2c1b02199.mp3",
+                        "tts_size": "14K"
+                    }
+                ]
+            },
+            {
+                "posp": "VERB",
+                "tran": "（伸手或腿）碰到，触及",
+                "def": "If you can reach something, you are able to touch it by stretching out your arm or leg.",
+                "example": [
+                    {
+                        "ex": "Can you reach your toes with your fingertips?",
+                        "tran": "你能用手指尖碰到你的脚趾吗？",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/0/c/7/0c7a274b1a7da60eca970eb9aedd474b.mp3",
+                        "tts_size": "12K"
+                    }
+                ]
+            },
+            {
+                "posp": "VERB",
+                "tran": "（通常指通过电话）联系，联络",
+                "def": "If you try to reach someone, you try to contact them, usually by telephone.",
+                "example": [
+                    {
+                        "ex": "Has the doctor told you how to reach him or her in emergencies?...",
+                        "tran": "医生有没有告诉你发生紧急情况时怎样与其取得联系？",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/7/e/6/7e62a1aefa41b6c50bca46f77725ad52.mp3",
+                        "tts_size": "17K"
+                    },
+                    {
+                        "ex": "If I see her, I'll tell her you've been trying to reach her.",
+                        "tran": "如果见到她，我会告诉她你一直在尝试联系她。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/f/0/9/f096a6543cddfb940213785a3ea94d41.mp3",
+                        "tts_size": "16K"
+                    }
+                ]
+            },
+            {
+                "posp": "VERB",
+                "tran": "延伸至;伸展到;传至",
+                "def": "If something reaches a place, point, or level, it extends as far as that place, point, or level.",
+                "example": [
+                    {
+                        "ex": "...a nightshirt which reached to his knees...",
+                        "tran": "长及他膝盖的睡衣",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/d/d/d/ddd6983425a4bc6e12988595539c3c56.mp3",
+                        "tts_size": "12K"
+                    },
+                    {
+                        "ex": "The water level in Lake Taihu has reached record levels...",
+                        "tran": "太湖水位达到了历史最高值。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/8/6/9/8697b2e2b8a26c12f7f5c57bafc21f07.mp3",
+                        "tts_size": "17K"
+                    }
+                ]
+            },
+            {
+                "posp": "VERB",
+                "tran": "取得（一致意见）；达成（协议）；作出（决定）",
+                "def": "When people reach an agreement or a decision, they succeed in achieving it.",
+                "example": [
+                    {
+                        "ex": "A meeting of agriculture ministers in Luxembourg today has so far failed to reach agreement over farm subsidies...",
+                        "tran": "今天参加卢森堡会议的各国农业部长目前尚未就农业补贴问题达成一致意见。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/d/0/f/d0f76c780c9bff483230a356a1042da6.mp3",
+                        "tts_size": "33K"
+                    },
+                    {
+                        "ex": "They are meeting in Lusaka in an attempt to reach a compromise.",
+                        "tran": "他们在卢萨卡举行会谈试图达成妥协。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/e/f/4/ef44a2db0313bbbc4b8f792d5b4f267b.mp3",
+                        "tts_size": "17K"
+                    }
+                ]
+            },
+            {
+                "posp": "N-UNCOUNT",
+                "tran": "可达到的距离；所能及的限度",
+                "def": "Someone's or something's reach is the distance or limit to which they can stretch, extend, or travel.",
+                "example": [
+                    {
+                        "ex": "Isabelle placed a wine cup on the table within his reach.",
+                        "tran": "伊莎贝尔把酒杯放在桌上他伸手可及的地方。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/a/3/e/a3ed21007a1b69f0187a102b4125ab12.mp3",
+                        "tts_size": "16K"
+                    },
+                    {
+                        "ex": "...a heavyweight who possesses a longer reach and more strength.",
+                        "tran": "出拳更远且更有力量的重量级拳击手",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/1/f/5/1f51695508d411fa82358bb68980fe44.mp3",
+                        "tts_size": "16K"
+                    }
+                ]
+            },
+            {
+                "posp": "N-UNCOUNT",
+                "tran": "（伸手）可及之距离;(可接受的)范围",
+                "def": "If a place or thing is within reach, it is possible to have it or get to it. If it is out of reach, it is not possible to have it or get to it.",
+                "example": [
+                    {
+                        "ex": "It is located within reach of many important Norman towns, including Bayeux...",
+                        "tran": "它邻近许多重要的诺曼城镇，包括贝叶。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/7/0/6/706323cc990440410cce09d8ca77e3e0.mp3",
+                        "tts_size": "23K"
+                    },
+                    {
+                        "ex": "The clothes they model for Littlewoods are all within easy reach of every woman...",
+                        "tran": "他们为利特尔伍兹服装店展示的那些服装每个女人都穿得起。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/0/e/2/0e250bbcbc1b8effa27e945c5ef998fe.mp3",
+                        "tts_size": "20K"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "road",
+        "ph_en": "rəʊd",
+        "ph_en_mp3": "http://res.iciba.com/resource/amp3/0/0/3c/68/3c68cbe461787ba38509df85e731f1a6.mp3",
+        "ph_am": "roʊd",
+        "ph_am_mp3": "http://res.iciba.com/resource/amp3/1/0/3c/68/3c68cbe461787ba38509df85e731f1a6.mp3",
+        "parts": [
+            {
+                "part": "n.",
+                "means": [
+                    "路",
+                    "通路",
+                    "途径",
+                    "方法"
+                ]
+            },
+            {
+                "part": "vt.",
+                "means": [
+                    "在…设置路障",
+                    "（狗）沿臭迹追逐（猎物）",
+                    "（狗）闻着臭迹追"
+                ]
+            }
+        ],
+        "collins": [
+            {
+                "posp": "N-COUNT",
+                "tran": "路;道路;公路",
+                "def": "A road is a long piece of hard ground which is built between two places so that people can drive or ride easily from one place to the other.",
+                "example": [
+                    {
+                        "ex": "There was very little traffic on the roads...",
+                        "tran": "这些公路上车辆稀少。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/b/b/b/bbb5292b65c44d99836b968477b02a44.mp3",
+                        "tts_size": "12K"
+                    },
+                    {
+                        "ex": "We just go straight up the Bristol Road...",
+                        "tran": "我们就沿着布里斯托尔大道直走。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/f/2/b/f2bef66e8c7a93210715cf64df978108.mp3",
+                        "tts_size": "11K"
+                    }
+                ]
+            },
+            {
+                "posp": "N-COUNT",
+                "tran": "途径;方法;过程",
+                "def": "The road to a particular result is the means of achieving it or the process of achieving it.",
+                "example": [
+                    {
+                        "ex": "We are bound to see some ups and downs along the road to recovery.",
+                        "tran": "在经济复苏的过程中，我们一定会经历一些曲折起伏。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/7/3/2/732e68f247565511aa429ed8806cc1b5.mp3",
+                        "tts_size": "18K"
+                    }
+                ]
+            },
+            {
+                "posp": "PHRASE",
+                "tran": "出发;动身",
+                "def": "If you hit the road, you set out on a journey.",
+                "example": [
+                    {
+                        "ex": "I was relieved to get back in the car and hit the road again.",
+                        "tran": "回到车里重新上路后，我松了一口气。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/7/e/8/7e8649fe30b6403a2ee5646b86eb8f44.mp3",
+                        "tts_size": "17K"
+                    }
+                ]
+            },
+            {
+                "posp": "PHRASE",
+                "tran": "在旅途中;在路上",
+                "def": "If you are on the road, you are going on a long journey or a series of journeys by road.",
+                "example": [
+                    {
+                        "ex": "He hoped to get a new truck and go back on the road.",
+                        "tran": "他希望能有一辆新的卡车，重新上路。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/f/8/c/f8c3f3d268073144a7e07be25fbd4d2d.mp3",
+                        "tts_size": "14K"
+                    }
+                ]
+            },
+            {
+                "posp": "PHRASE",
+                "tran": "走向…;向…迈进;即将达到",
+                "def": "If you say that someone is on the road to something, you mean that they are likely to achieve it.",
+                "example": [
+                    {
+                        "ex": "The government took another step on the road to political reform.",
+                        "tran": "政府在实现政治改革的路上又迈进了一步。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/d/e/9/de92a9247817c974240058bf6368f640.mp3",
+                        "tts_size": "17K"
+                    },
+                    {
+                        "ex": "...the stunning fashion pictures which launched unknown teenager Jane March on the road to stardom.",
+                        "tran": "让名不见经传的少女简·马奇走向成名之路的惊艳的时装照片",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/0/8/6/086450ab9986a35878e867e35c13efb8.mp3",
+                        "tts_size": "26K"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "school",
+        "ph_en": "sku:l",
+        "ph_en_mp3": "http://res.iciba.com/resource/amp3/oxford/0/84/49/8449247035db6fb51ecdbac4799aea90.mp3",
+        "ph_am": "skul",
+        "ph_am_mp3": "http://res.iciba.com/resource/amp3/1/0/75/16/7516c3b35580b3490248629cff5e498c.mp3",
+        "parts": [
+            {
+                "part": "n.",
+                "means": [
+                    "学校",
+                    "上学",
+                    "学院",
+                    "群"
+                ]
+            },
+            {
+                "part": "vt.",
+                "means": [
+                    "训练，锻炼",
+                    "教育，教导",
+                    "约束",
+                    "给…上学"
+                ]
+            }
+        ],
+        "collins": [
+            {
+                "posp": "N-VAR",
+                "tran": "(中、小)学校",
+                "def": "A school is a place where children are educated. You usually refer to this place as school when you are talking about the time that children spend there and the activities that they do there.",
+                "example": [
+                    {
+                        "ex": "...a boy who was in my class at school...",
+                        "tran": "上学时和我一个班的男孩",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/9/b/9/9b9b51dc474c6717bd45b0b77c4e2cf5.mp3",
+                        "tts_size": "12K"
+                    },
+                    {
+                        "ex": "Even the good students say homework is what they most dislike about school...",
+                        "tran": "就连好学生都说上学最讨厌的就是要写家庭作业。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/b/e/e/bee893f34feac934e460c362c34cfa72.mp3",
+                        "tts_size": "20K"
+                    }
+                ]
+            },
+            {
+                "posp": "N-COUNT-COLL",
+                "tran": "全体师生",
+                "def": "A school is the pupils or staff at a school.",
+                "example": [
+                    {
+                        "ex": "Deirdre, the whole school's going to hate you.",
+                        "tran": "戴尔德丽，学校里所有人都会恨你的。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/d/2/2/d22ef7cda04837c45c95deb6ad5d5aff.mp3",
+                        "tts_size": "14K"
+                    },
+                    {
+                        "ex": "...a children's writing competition open to schools or individuals.",
+                        "tran": "可以以学校或个人名义参加的儿童写作比赛",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/7/7/d/77da9a03fba5f46301be334014897bbd.mp3",
+                        "tts_size": "20K"
+                    }
+                ]
+            },
+            {
+                "posp": "N-COUNT; N-IN-NAMES",
+                "tran": "(私立的)专业学校，专科学校",
+                "def": "A privately-run place where a particular skill or subject is taught can be referred to as a school .",
+                "example": [
+                    {
+                        "ex": "...a riding school and equestrian centre near Chepstow.",
+                        "tran": "在切普斯托附近的一所骑术学校兼马术中心",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/d/a/7/da789c8be6b83a80fb30fd5e642ec774.mp3",
+                        "tts_size": "17K"
+                    },
+                    {
+                        "ex": "...the Kingsley School of English.",
+                        "tran": "金斯利英语学校",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/6/4/0/640c06d0742ecbd57990cea1e03823a5.mp3",
+                        "tts_size": "9K"
+                    }
+                ]
+            },
+            {
+                "posp": "N-VAR; N-IN-NAMES",
+                "tran": "大学;学院;系;院",
+                "def": "A university, college, or university department specializing in a particular type of subject can be referred to as a school .",
+                "example": [
+                    {
+                        "ex": "...a lecturer in the school of veterinary medicine at the University of Pennsylvania...",
+                        "tran": "宾夕法尼亚大学兽医学系的一名讲师",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/e/6/6/e66de75b1a41322706adf1eb9aadecf9.mp3",
+                        "tts_size": "22K"
+                    },
+                    {
+                        "ex": "Stella, 21, is at art school training to be a fashion designer.",
+                        "tran": "斯特拉，21 岁，就读于艺术系，正接受时装设计师的培训。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/8/4/e/84ed0cc91306be5b5fb6907412a6271b.mp3",
+                        "tts_size": "22K"
+                    }
+                ]
+            },
+            {
+                "posp": "N-UNCOUNT",
+                "tran": "大学;学院",
+                "def": "School is used to refer to university or college.",
+                "example": [
+                    {
+                        "ex": "Moving rapidly through school, he graduated Phi Beta Kappa from the University of Kentucky at age 18.",
+                        "tran": "他连续跳级, 18 岁时就以全美优等生联谊会成员的身份从肯塔基大学毕业。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/8/5/7/857f904fccbb5be30699361a4cd21539.mp3",
+                        "tts_size": "33K"
+                    }
+                ]
+            },
+            {
+                "posp": "N-COUNT-COLL",
+                "tran": "学派;流派",
+                "def": "A particular school of writers, artists, or thinkers is a group of them whose work, opinions, or theories are similar.",
+                "example": [
+                    {
+                        "ex": "...the Chicago school of economists...",
+                        "tran": "芝加哥经济学派",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/5/c/c/5cc37e01f594951a7f26cfcc7dcd95d7.mp3",
+                        "tts_size": "11K"
+                    },
+                    {
+                        "ex": "O'Keeffe was influenced by various painters and photographers, but she was never a member of any school.",
+                        "tran": "欧姬芙受多位画家和摄影家的影响，但她从未加入过任何学派。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/8/3/3/8332f0ed9b9f8caef7b7d3ff98f649bc.mp3",
+                        "tts_size": "32K"
+                    }
+                ]
+            },
+            {
+                "posp": "N-COUNT-COLL",
+                "tran": "(鱼、海豚的)群",
+                "def": "A school of fish or dolphins is a large group of them moving through water together.",
+                "example": []
+            },
+            {
+                "posp": "VERB",
+                "tran": "教育;培养;训练;使学会",
+                "def": "If you school someone in something, you train or educate them to have a certain skill, type of behaviour, or way of thinking.",
+                "example": [
+                    {
+                        "ex": "Many mothers schooled their daughters in the myth of female inferiority...",
+                        "tran": "许多母亲把男尊女卑的错误观念传给了她们的女儿。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/a/0/d/a0daaaa5fd4a1f279c32b67956453e11.mp3",
+                        "tts_size": "18K"
+                    },
+                    {
+                        "ex": "He is schooled to spot trouble.",
+                        "tran": "他受过训练，能够迅速发现问题。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/5/6/4/564485ec316f0ac7369339e6e61d5cbe.mp3",
+                        "tts_size": "9K"
+                    }
+                ]
+            },
+            {
+                "posp": "VERB",
+                "tran": "教育;培养",
+                "def": "To school a child means to educate him or her.",
+                "example": [
+                    {
+                        "ex": "She's been schooling her kids herself.",
+                        "tran": "她一直在自己教育孩子。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/4/f/f/4ffdf00bf542e3bc8ac5e4f10993a25d.mp3",
+                        "tts_size": "11K"
+                    }
+                ]
+            },
+            {
+                "posp": "VERB",
+                "tran": "驯(马)",
+                "def": "If you school a horse, you train it so that it can be ridden in races or competitions.",
+                "example": [
+                    {
+                        "ex": "She bought him as a £1,000 colt of six months and schooled him.",
+                        "tran": "在它还是 6 个月的小马驹时，她用 1,000 英镑将它买下，并训练它。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/c/6/d/c6dd79fe06fec5255563830f8b726f4f.mp3",
+                        "tts_size": "23K"
+                    }
+                ]
+            },
+            {
+                "posp": "PHRASE",
+                "tran": "老派;传统派",
+                "def": "If you approve of someone because they have good qualities that used to be more common in the past, you can describe them as one of the old school .",
+                "example": [
+                    {
+                        "ex": "He is one of the old school who still believes in honour in public life.",
+                        "tran": "他思想传统，在别人面前仍然讲究体面。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/7/b/8/7b8b6d91842842b54b9e993be7323bcd.mp3",
+                        "tts_size": "18K"
+                    },
+                    {
+                        "ex": "...an elderly gentleman of the old school.",
+                        "tran": "年长的老派绅士",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/1/c/d/1cde0c02874b868bb36d44ed0d7e946e.mp3",
+                        "tts_size": "12K"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "trade",
+        "ph_en": "treɪd",
+        "ph_en_mp3": "http://res.iciba.com/resource/amp3/oxford/0/c1/18/c1180b7a54e3f34067b595b61ece8a5f.mp3",
+        "ph_am": "treid",
+        "ph_am_mp3": "http://res.iciba.com/resource/amp3/1/0/21/e1/21e119daf697467b14b076f2d5819aec.mp3",
+        "parts": [
+            {
+                "part": "n.",
+                "means": [
+                    "贸易",
+                    "行业",
+                    "<美>顾客",
+                    "买卖"
+                ]
+            },
+            {
+                "part": "vt.& vi.",
+                "means": [
+                    "交易，经商"
+                ]
+            },
+            {
+                "part": "vt.",
+                "means": [
+                    "交换",
+                    "经营…交易，做…的买卖"
+                ]
+            },
+            {
+                "part": "vi.",
+                "means": [
+                    "贸易",
+                    "买卖",
+                    "以物易物"
+                ]
+            }
+        ],
+        "collins": [
+            {
+                "posp": "N-UNCOUNT",
+                "tran": "贸易;买卖;交易",
+                "def": "Trade is the activity of buying, selling, or exchanging goods or services between people, firms, or countries.",
+                "example": [
+                    {
+                        "ex": "The ministry had direct control over every aspect of foreign trade.",
+                        "tran": "该政府部门直接掌控着外贸的各个方面。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/a/f/c/afc18a09fec713e3c4d5f5bc5495c621.mp3",
+                        "tts_size": "19K"
+                    },
+                    {
+                        "ex": "...negotiations on a new international trade agreement...",
+                        "tran": "有关新国际贸易协定的谈判",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/a/7/d/a7d3c2178100904d687e8df83e47216c.mp3",
+                        "tts_size": "17K"
+                    }
+                ]
+            },
+            {
+                "posp": "VERB",
+                "tran": "做买卖;做生意;从事贸易",
+                "def": "When people, firms, or countries trade, they buy, sell, or exchange goods or services between themselves.",
+                "example": [
+                    {
+                        "ex": "They may refuse to trade, even when offered attractive prices...",
+                        "tran": "即便对方的报价很有吸引力,他们也有可能拒绝进行交易。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/5/e/3/5e37416e2b7bf29fed2dc5ff7187d9d2.mp3",
+                        "tts_size": "19K"
+                    },
+                    {
+                        "ex": "They had years of experience of trading with the West...",
+                        "tran": "他们有多年与西方贸易往来的经验。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/9/7/0/970113f31ee60c4d9ad0a575c15c4cc4.mp3",
+                        "tts_size": "15K"
+                    }
+                ]
+            },
+            {
+                "posp": "N-COUNT",
+                "tran": "(某一)生意，行业",
+                "def": "A trade is a particular area of business or industry.",
+                "example": [
+                    {
+                        "ex": "They've completely ruined the tourist trade for the next few years.",
+                        "tran": "他们把今后几年的旅游业完全给毁了。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/0/5/4/054909f25e012c11fc053a11ddd66657.mp3",
+                        "tts_size": "18K"
+                    },
+                    {
+                        "ex": "...the arms trade.",
+                        "tran": "军火贸易",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/8/5/3/853aae28f2fe3a2f21cc3d9bec88f23e.mp3",
+                        "tts_size": "6K"
+                    }
+                ]
+            },
+            {
+                "posp": "N-COUNT",
+                "tran": "职业;手艺;行当",
+                "def": "Someone's trade is the kind of work that they do, especially when they have been trained to do it over a period of time.",
+                "example": [
+                    {
+                        "ex": "He learnt his trade as a diver in the North Sea...",
+                        "tran": "他在北海学会了潜水员这一行的本事。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/2/0/f/20f693fb43736569177b2b673352eeaa.mp3",
+                        "tts_size": "13K"
+                    },
+                    {
+                        "ex": "Allyn was a jeweller by trade...",
+                        "tran": "阿林是珠宝匠。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/3/3/7/337a59723f81880f2815c7897d57d7a4.mp3",
+                        "tts_size": "9K"
+                    }
+                ]
+            },
+            {
+                "posp": "V-RECIP",
+                "tran": "用…进行交换;互相交换",
+                "def": "If someone trades one thing for another or if two people trade things, they agree to exchange one thing for the other thing.",
+                "example": [
+                    {
+                        "ex": "They traded land for goods and money...",
+                        "tran": "他们用土地换取了货物与金钱。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/f/1/7/f17f83f6cc4e7a320a135cda07a9df73.mp3",
+                        "tts_size": "12K"
+                    },
+                    {
+                        "ex": "He still claims the arms weren't traded for hostages…",
+                        "tran": "他仍然声称军火没有被用来交换人质。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/a/5/a/a5ad8f82897d147b381a63a4c17efc47.mp3",
+                        "tts_size": "16K"
+                    }
+                ]
+            },
+            {
+                "posp": "V-RECIP",
+                "tran": "交换，对换(位置或处境)",
+                "def": "If you trade places with someone or if the two of you trade places, you move into the other person's position or situation, and they move into yours.",
+                "example": [
+                    {
+                        "ex": "Mike asked George to trade places with him so he could ride with Tod...",
+                        "tran": "迈克要求乔治和他交换位置，让他和托德同坐一辆车。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/c/d/3/cd340abb07bfec0ee6fcd36b7f973bc1.mp3",
+                        "tts_size": "20K"
+                    },
+                    {
+                        "ex": "Kennedy mischievously suggested that professors ought to trade jobs for a time with janitors…",
+                        "tran": "肯尼迪调皮地建议教授和看门人互换一段时间工作。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/9/d/9/9d96d670d63316636a0a515311a5db09.mp3",
+                        "tts_size": "28K"
+                    }
+                ]
+            },
+            {
+                "posp": "VERB",
+                "tran": "使(足球、棒球等职业运动员)转会",
+                "def": "In professional sports, for example football or baseball, if a player is traded from one team to another, they leave one team and begin playing for another.",
+                "example": [
+                    {
+                        "ex": "He was traded from the Giants to the Yankees...",
+                        "tran": "他从巨人队转会到扬基队。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/a/8/f/a8ff342668d16433f2e72973d7ded840.mp3",
+                        "tts_size": "14K"
+                    },
+                    {
+                        "ex": "The A's have not won a game since they traded him.",
+                        "tran": "奥克兰运动家队自从他转会后还没有赢过一场比赛。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/2/1/6/216d4110f5b9f37b0e2d23f5be398007.mp3",
+                        "tts_size": "15K"
+                    }
+                ]
+            },
+            {
+                "posp": "V-RECIP",
+                "tran": "互相做;对打;对骂",
+                "def": "If two people or groups trade something such as blows, insults, or jokes, they hit each other, insult each other, or tell each other jokes.",
+                "example": [
+                    {
+                        "ex": "Children would settle disputes by trading punches or insults in the schoolyard...",
+                        "tran": "儿童会通过在操场上对打或互骂的方式解决争端。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/a/5/1/a518098c01b7716ea75cfdeb9bf8d64f.mp3",
+                        "tts_size": "23K"
+                    },
+                    {
+                        "ex": "They traded artillery fire with government forces inside the city.",
+                        "tran": "他们与城内的政府军互相开炮。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/a/f/2/af2f4d7ee3435c8f52292daf1cdd9f67.mp3",
+                        "tts_size": "20K"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "week",
+        "ph_en": "wi:k",
+        "ph_en_mp3": "http://res.iciba.com/resource/amp3/oxford/0/c5/e3/c5e316aa5f5e970ea93e9a43ae70802d.mp3",
+        "ph_am": "wik",
+        "ph_am_mp3": "http://res.iciba.com/resource/amp3/1/0/17/2a/172a8327fcd3685ab3c0f740d031da09.mp3",
+        "parts": [
+            {
+                "part": "n.",
+                "means": [
+                    "一星期，周",
+                    "工作周（一个星期中的工作时间）"
+                ]
+            }
+        ],
+        "collins": [
+            {
+                "posp": "N-COUNT",
+                "tran": "星期;周;礼拜",
+                "def": "A week is a period of seven days. Some people consider that a week starts on Monday and ends on Sunday.",
+                "example": [
+                    {
+                        "ex": "I had a letter from my mother last week...",
+                        "tran": "上周我收到了母亲的一封信。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/1/2/5/125397d24a726eda05fdfe04b3cf8b6a.mp3",
+                        "tts_size": "11K"
+                    },
+                    {
+                        "ex": "This has been on my mind all week...",
+                        "tran": "我整个星期都在想这件事。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/1/8/d/18d850c75b3f44c9b776750b6e865fa9.mp3",
+                        "tts_size": "10K"
+                    }
+                ]
+            },
+            {
+                "posp": "N-COUNT",
+                "tran": "一周时间;七天左右的时间",
+                "def": "A week is a period of about seven days.",
+                "example": [
+                    {
+                        "ex": "Her mother stayed for another two weeks...",
+                        "tran": "她母亲又呆了两个星期。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/f/8/3/f8311d7bb26a96a0856615281f1a4840.mp3",
+                        "tts_size": "11K"
+                    },
+                    {
+                        "ex": "Only 12 weeks ago he underwent major heart transplant surgery...",
+                        "tran": "12个星期前他才刚刚接受了风险很高的心脏移植手术。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/6/5/d/65d1761b88c608a1298db57ff51a3804.mp3",
+                        "tts_size": "19K"
+                    }
+                ]
+            },
+            {
+                "posp": "N-COUNT",
+                "tran": "工作周(指一周的工作时间)",
+                "def": "Your working week is the hours that you spend at work during a week.",
+                "example": [
+                    {
+                        "ex": "It is not unusual for women to work a 40-hour week.",
+                        "tran": "女性一周工作40小时并不少见。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/a/6/8/a68606b03557bcd92cee89db93465e2f.mp3",
+                        "tts_size": "18K"
+                    },
+                    {
+                        "ex": "...workers on a three-day week.",
+                        "tran": "一周只工作3天的工人",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/1/9/e/19e2997eea5233044c101923efba866d.mp3",
+                        "tts_size": "9K"
+                    }
+                ]
+            },
+            {
+                "posp": "N-SING",
+                "tran": "(除去星期六和星期日的)星期，周，礼拜",
+                "def": "The week is the part of the week that does not include Saturday and Sunday.",
+                "example": [
+                    {
+                        "ex": "...the hard work of looking after the children during the week...",
+                        "tran": "除周末外每天都要照看孩子的辛苦",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/6/9/f/69fa9e11fb71ec75603693e954caf368.mp3",
+                        "tts_size": "16K"
+                    },
+                    {
+                        "ex": "They arrived at the weekend and gave three concerts in the week.",
+                        "tran": "他们周末抵达，从周一到周五举办了3场音乐会。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/1/4/8/1487997b34aac2ad8b0d641f1fd5037b.mp3",
+                        "tts_size": "17K"
+                    }
+                ]
+            },
+            {
+                "posp": "N-COUNT",
+                "tran": "(用于表述一周后的某天)",
+                "def": "You use week in expressions such as 'a week on Monday', 'a week next Tuesday', and 'tomorrow week' to mean exactly one week after the day that you mention.",
+                "example": [
+                    {
+                        "ex": "The deadline to publish the document is a week tomorrow...",
+                        "tran": "一周后的明天是公布这份文件的最后期限。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/7/b/5/7b50e47c51e36a7544c6a9b7ea7d5b82.mp3",
+                        "tts_size": "15K"
+                    },
+                    {
+                        "ex": "The 800 metre final is on Monday week.",
+                        "tran": "800米决赛在下周一进行。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/a/0/0/a000611471fc5d35fa250017facb0179.mp3",
+                        "tts_size": "14K"
+                    }
+                ]
+            },
+            {
+                "posp": "N-COUNT",
+                "tran": "(用于表述一周前的某天)",
+                "def": "You use week in expressions such as 'a week last Monday', 'a week ago this Tuesday', and 'a week ago yesterday' to mean exactly one week before the day that you mention.",
+                "example": [
+                    {
+                        "ex": "'That's the time you weren't well, wasn't it?' — 'Yes, that's right, that was a week ago yesterday.'",
+                        "tran": "“就是那个时候你不舒服，没错吧？”——“是的，没错，就是一周前的昨天。”",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/5/9/0/590a844e84a378f9f55690ce59b858b4.mp3",
+                        "tts_size": "34K"
+                    }
+                ]
+            },
+            {
+                "posp": "PHRASE",
+                "tran": "一周又一周；接连好几个星期",
+                "def": "If you say that something happens week in week out, you do not like it because it happens all the time, and never seems to change.",
+                "example": [
+                    {
+                        "ex": "...stars who appear on television week in week out.",
+                        "tran": "接连好几个星期都在电视上露脸的明星。",
+                        "tts_mp3": "http://res-tts.iciba.com/tts_dj/d/9/e/d9ec30e6b96a6131c3da852f1a203816.mp3",
+                        "tts_size": "15K"
+                    }
+                ]
+            }
+        ]
+    }
+]
